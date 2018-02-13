@@ -6,3 +6,6 @@
 
 ### dartboard cabinet
 ![alt text](https://raw.githubusercontent.com/JasonRowe/woodworkingplans/master/Dartboard_Cabinet/Dart_Board_Cabinet_12_29_2017.png)
+
+### whiteboard frame
+![alt text](https://raw.githubusercontent.com/JasonRowe/woodworkingplans/master/White_Board_Frame/White_Board_Frame.png)
